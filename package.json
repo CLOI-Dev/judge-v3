@@ -16,7 +16,7 @@
     "decompress": "^4.2.0",
     "express": "^4.17.1",
     "fs-extra": "^3.0.1",
-    "get-folder-size": "^1.0.0",
+    "get-folder-size": "^2.0.1",
     "js-yaml": "^3.13.1",
     "jsondiffpatch": "0.2.4",
     "jsonwebtoken": "^7.4.3",
