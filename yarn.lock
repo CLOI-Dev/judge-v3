@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-"@types/amqplib@^0.5.4":
+"@types/amqplib@^0.5.13":
   version "0.5.13"
-  resolved "https://registry.npm.taobao.org/@types/amqplib/download/@types/amqplib-0.5.13.tgz#a0dc9be08f38b91e5f7532acf0c89b0e515cdc6c"
-  integrity sha1-oNyb4I84uR5fdTKs8MibDlFc3Gw=
+  resolved "https://registry.yarnpkg.com/@types/amqplib/-/amqplib-0.5.13.tgz#a0dc9be08f38b91e5f7532acf0c89b0e515cdc6c"
+  integrity sha512-0r8cJfUajAlcHxlJsZyqRrSAYzv+pJPsaAQjDC6e5rACi3AOIuR0AfevJG7NLvw3Qu4EGhf3KS/ECwd5cUAY2A==
   dependencies:
     "@types/bluebird" "*"
     "@types/node" "*"
