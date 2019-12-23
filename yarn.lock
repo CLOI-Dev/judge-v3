@@ -135,10 +135,10 @@
     "@types/bluebird" "*"
     "@types/redis" "*"
 
-"@types/request-promise@^4.1.37":
+"@types/request-promise@^4.1.45":
   version "4.1.45"
-  resolved "https://registry.npm.taobao.org/@types/request-promise/download/@types/request-promise-4.1.45.tgz#7fcdd39fd920674ab7bfb44197270f225fb4e585"
-  integrity sha1-f83Tn9kgZ0q3v7RBlycPIl+05YU=
+  resolved "https://registry.yarnpkg.com/@types/request-promise/-/request-promise-4.1.45.tgz#7fcdd39fd920674ab7bfb44197270f225fb4e585"
+  integrity sha512-KFagTY/a7CzAj86DkhaAtqP0ViYTNam+CfEokSwtPFUIuq9Qrq+Rq2X4nuaB6OJmM2s0xWeiS085Ro7vR0tt9Q==
   dependencies:
     "@types/bluebird" "*"
     "@types/request" "*"
