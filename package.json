@@ -50,7 +50,7 @@
     "@types/jsonwebtoken": "^7.2.3",
     "@types/klaw": "^3.0.0",
     "@types/lodash": "^4.14.74",
-    "@types/msgpack-lite": "^0.1.5",
+    "@types/msgpack-lite": "^0.1.7",
     "@types/node": "^7.0.43",
     "@types/randomstring": "^1.1.6",
     "@types/redlock": "0.0.31",
