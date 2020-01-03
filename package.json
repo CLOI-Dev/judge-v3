@@ -18,7 +18,7 @@
     "fs-extra": "^3.0.1",
     "get-folder-size": "^2.0.1",
     "js-yaml": "^3.13.1",
-    "jsondiffpatch": "0.2.4",
+    "jsondiffpatch": "0.4.1",
     "jsonwebtoken": "^7.4.3",
     "klaw": "^3.0.0",
     "lockfile": "^1.0.3",
