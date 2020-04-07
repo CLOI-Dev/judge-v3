@@ -69,10 +69,10 @@
   resolved "https://registry.npm.taobao.org/@types/js-yaml/download/@types/js-yaml-3.12.1.tgz#5c6f4a1eabca84792fbd916f0cb40847f123c656"
   integrity sha1-XG9KHqvKhHkvvZFvDLQIR/EjxlY=
 
-"@types/jsonwebtoken@^7.2.3":
-  version "7.2.8"
-  resolved "https://registry.npm.taobao.org/@types/jsonwebtoken/download/@types/jsonwebtoken-7.2.8.tgz#8d199dab4ddb5bba3234f8311b804d2027af2b3a"
-  integrity sha1-jRmdq03bW7oyNPgxG4BNICevKzo=
+"@types/jsonwebtoken@^8.3.9":
+  version "8.3.9"
+  resolved "https://registry.yarnpkg.com/@types/jsonwebtoken/-/jsonwebtoken-8.3.9.tgz#48da9a49997e4eb046733e6878f583d7448f0594"
+  integrity sha512-00rI8GbOKuRtoYxltFSRTVUXCRLbuYwln2/nUMPtFU9JGS7if+nnmLjeoFGmqsNCmblPLAaeQ/zMLVsHr6T5bg==
   dependencies:
     "@types/node" "*"
 
