@@ -40,6 +40,13 @@
   resolved "https://registry.npm.taobao.org/@types/crypto-js/download/@types/crypto-js-3.1.43.tgz#b859347d6289ba13e347c335a4c9efa63337a748"
   integrity sha1-uFk0fWKJuhPjR8M1pMnvpjM3p0g=
 
+"@types/engine.io@*":
+  version "3.1.5"
+  resolved "https://registry.yarnpkg.com/@types/engine.io/-/engine.io-3.1.5.tgz#ed280bec61d6226c0bfcb03f2820c4e65391dac2"
+  integrity sha512-DLVpLEGTEZGBXOYoYoagHSxXkDHONc0fZouF2ayw7Q18aRu1Afwci+1CFKvPpouCUOVWP+dmCaAWpQjswe7kpg==
+  dependencies:
+    "@types/node" "*"
+
 "@types/express-serve-static-core@*":
   version "4.17.1"
   resolved "https://registry.npm.taobao.org/@types/express-serve-static-core/download/@types/express-serve-static-core-4.17.1.tgz#82be64a77211b205641e0209096fd3afb62481d3"
@@ -166,12 +173,21 @@
   resolved "https://registry.npm.taobao.org/@types/socket.io-client/download/@types/socket.io-client-1.4.32.tgz#988a65a0386c274b1c22a55377fab6a30789ac14"
   integrity sha1-mIploDhsJ0scIqVTd/q2oweJrBQ=
 
-"@types/socket.io@^1.4.30":
-  version "1.4.40"
-  resolved "https://registry.npm.taobao.org/@types/socket.io/download/@types/socket.io-1.4.40.tgz#4f6955a8bdab66f8af47edcebea038f89aea7ad2"
-  integrity sha1-T2lVqL2rZvivR+3OvqA4+JrqetI=
+"@types/socket.io-parser@*":
+  version "2.2.1"
+  resolved "https://registry.yarnpkg.com/@types/socket.io-parser/-/socket.io-parser-2.2.1.tgz#dc94aed303839487f4975249a32a548109ea3647"
+  integrity sha512-+JNb+7N7tSINyXPxAJb62+NcpC1x/fPn7z818W4xeNCdPTp6VsO/X8fCsg6+ug4a56m1v9sEiTIIUKVupcHOFQ==
   dependencies:
     "@types/node" "*"
+
+"@types/socket.io@^2.1.13":
+  version "2.1.13"
+  resolved "https://registry.yarnpkg.com/@types/socket.io/-/socket.io-2.1.13.tgz#b6d694234e99956c96ff99e197eda824b6f9dc48"
+  integrity sha512-JRgH3nCgsWel4OPANkhH8TelpXvacAJ9VeryjuqCDiaVDMpLysd6sbt0dr6Z15pqH3p2YpOT3T1C5vQ+O/7uyg==
+  dependencies:
+    "@types/engine.io" "*"
+    "@types/node" "*"
+    "@types/socket.io-parser" "*"
 
 "@types/tough-cookie@*":
   version "2.3.6"
