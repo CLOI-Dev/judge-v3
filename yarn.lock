@@ -64,10 +64,10 @@
   dependencies:
     "@types/node" "*"
 
-"@types/js-yaml@^3.9.1":
-  version "3.12.1"
-  resolved "https://registry.npm.taobao.org/@types/js-yaml/download/@types/js-yaml-3.12.1.tgz#5c6f4a1eabca84792fbd916f0cb40847f123c656"
-  integrity sha1-XG9KHqvKhHkvvZFvDLQIR/EjxlY=
+"@types/js-yaml@^4.0.1":
+  version "4.0.1"
+  resolved "https://registry.yarnpkg.com/@types/js-yaml/-/js-yaml-4.0.1.tgz#5544730b65a480b18ace6b6ce914e519cec2d43b"
+  integrity sha512-xdOvNmXmrZqqPy3kuCQ+fz6wA0xU5pji9cd1nDrflWaAWtYLLGk5ykW0H6yg5TVyehHP1pfmuuSaZkhP+kspVA==
 
 "@types/jsonwebtoken@^7.2.3":
   version "7.2.8"
