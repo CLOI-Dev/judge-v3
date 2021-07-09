@@ -93,10 +93,10 @@
   resolved "https://registry.npm.taobao.org/@types/mime/download/@types/mime-2.0.1.tgz#dc488842312a7f075149312905b5e3c0b054c79d"
   integrity sha1-3EiIQjEqfwdRSTEpBbXjwLBUx50=
 
-"@types/msgpack-lite@^0.1.5":
-  version "0.1.7"
-  resolved "https://registry.npm.taobao.org/@types/msgpack-lite/download/@types/msgpack-lite-0.1.7.tgz#91e7cfa16bda0de7ef433f69060689f5013167ff"
-  integrity sha1-kefPoWvaDefvQz9pBgaJ9QExZ/8=
+"@types/msgpack-lite@^0.1.8":
+  version "0.1.8"
+  resolved "https://registry.yarnpkg.com/@types/msgpack-lite/-/msgpack-lite-0.1.8.tgz#032f19609e6353b65f2898d135e1f61e3aa8b102"
+  integrity sha512-3qIhe8MH1kGcXnB5YuY6W0lLb9LEcWrhanDYfw0zKdXAv+CNKG0+6To1X8dqVyrxKb3FeAgJBJS5RdFwBQteVg==
   dependencies:
     "@types/node" "*"
 
